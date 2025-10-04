@@ -1,1 +1,2 @@
-requirements.txt
+PyQt6
+psutil
